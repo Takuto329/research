@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "024176e27bdcb0d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8dae89ee3a876c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9657754441469a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ようこそ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ようこそ"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d59180bf535a6d61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c4b3ccc04fdb0fe",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "368334e3aa1a1884",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2e391d908153dda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46c7fc7ca1e45b35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "57fc848d92064078",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "f78a039645a21265",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad0f3fcf7f456892",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd463d6a158e751e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78a84d5cc911700a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ようこそ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "dd4f9f8b4f290c64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ようこそ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "bb963095d2c867f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "acb2c7d10a8eae3a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "91069e63fc6e9d10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ようこそ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "9657754441469a9b",
+  "lastOpenFiles": [
+    "ようこそ.md"
+  ]
+}
