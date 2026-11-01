@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8dae89ee3a876c9",
+        "id": "d59180bf535a6d61",
         "type": "tabs",
         "children": [
           {
-            "id": "9657754441469a9b",
+            "id": "4c4b3ccc04fdb0fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "ようこそ"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d59180bf535a6d61",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4c4b3ccc04fdb0fe",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
             }
           }
         ]
@@ -201,11 +185,13 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false
+      "bases:新規ベースを作成": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9657754441469a9b",
+  "active": "4c4b3ccc04fdb0fe",
   "lastOpenFiles": [
+    "無題のファイル.base",
     "ようこそ.md"
   ]
 }
